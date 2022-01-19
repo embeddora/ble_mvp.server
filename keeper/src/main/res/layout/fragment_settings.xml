@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/section_label"
+        style="@style/TextHeaderStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Настройки приложения" />
+
+    <TextView
+        android:id="@+id/buttonSettingsSound"
+        style="@style/SettingItemStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Уведомления и звук" />
+
+    <TextView
+        android:id="@+id/buttonSettingsDeviceSearch"
+        style="@style/SettingItemStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Поиск устройства" />
+
+    <TextView
+        android:id="@+id/buttonSettingsPin"
+        style="@style/SettingItemStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Установка pin-кода" />
+
+    <TextView
+        android:id="@+id/buttonSettingsFeedback"
+        style="@style/SettingItemStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Обратная связь" />
+
+    <TextView
+        android:id="@+id/buttonSettingsAbout"
+        style="@style/SettingItemStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="О нас" />
+
+    <TextView
+        android:id="@+id/buttonSettingsRestore"
+        style="@style/SettingItemStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Сброс всех устройств" />
+
+</LinearLayout>

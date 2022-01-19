@@ -1,0 +1,368 @@
+[
+    {
+        "outputFile": "/home/developer/20211201.1/keeper/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 132,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 132,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 176,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 176,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 130,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 130,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 134,
+                    "endOffset": 626
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 134,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 631,
+                    "endColumn": 201,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 201,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endColumn": 201,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 201,
+                        "endOffset": 1030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 131,
+                    "endOffset": 1162
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1035,
+                        "endColumn": 131,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1167,
+                    "endColumn": 186,
+                    "endOffset": 1349
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 186,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1354,
+                    "endColumn": 123,
+                    "endOffset": 1473
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1354,
+                        "endColumn": 123,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1478,
+                    "endColumn": 176,
+                    "endOffset": 1650
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 176,
+                        "endOffset": 1650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1655,
+                    "endColumn": 121,
+                    "endOffset": 1772
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1655,
+                        "endColumn": 121,
+                        "endOffset": 1772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1777,
+                    "endColumn": 152,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1777,
+                        "endColumn": 152,
+                        "endOffset": 1925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1930,
+                    "endColumn": 245,
+                    "endOffset": 2171
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1930,
+                        "endColumn": 245,
+                        "endOffset": 2171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2176,
+                    "endColumn": 128,
+                    "endOffset": 2300
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2176,
+                        "endColumn": 128,
+                        "endOffset": 2300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2305,
+                    "endColumn": 110,
+                    "endOffset": 2411
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2305,
+                        "endColumn": 110,
+                        "endOffset": 2411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2416,
+                    "endColumn": 178,
+                    "endOffset": 2590
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2416,
+                        "endColumn": 178,
+                        "endOffset": 2590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2595,
+                    "endColumn": 134,
+                    "endOffset": 2725
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2595,
+                        "endColumn": 134,
+                        "endOffset": 2725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2730,
+                    "endColumn": 93,
+                    "endOffset": 2819
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2730,
+                        "endColumn": 93,
+                        "endOffset": 2819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2824,
+                    "endColumn": 112,
+                    "endOffset": 2932
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-ms-rMY/values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2824,
+                        "endColumn": 112,
+                        "endOffset": 2932
+                    }
+                }
+            }
+        ]
+    }
+]

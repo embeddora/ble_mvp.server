@@ -1,0 +1,482 @@
+[
+    {
+        "outputFile": "/home/developer/20211201.1/keeper/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 156,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 156,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 164,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 164,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 152,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 427,
+                        "endColumn": 152,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 131,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 580,
+                        "endColumn": 131,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 136,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 136,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 849,
+                    "endColumn": 160,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 160,
+                        "endOffset": 1005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 127,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1010,
+                        "endColumn": 127,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endColumn": 158,
+                    "endOffset": 1292
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 158,
+                        "endOffset": 1292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1297,
+                    "endColumn": 125,
+                    "endOffset": 1418
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1297,
+                        "endColumn": 125,
+                        "endOffset": 1418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1423,
+                    "endColumn": 129,
+                    "endOffset": 1548
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1423,
+                        "endColumn": 129,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1553,
+                    "endColumn": 189,
+                    "endOffset": 1738
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1553,
+                        "endColumn": 189,
+                        "endOffset": 1738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1743,
+                    "endColumn": 194,
+                    "endOffset": 1933
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1743,
+                        "endColumn": 194,
+                        "endOffset": 1933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1938,
+                    "endColumn": 126,
+                    "endOffset": 2060
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1938,
+                        "endColumn": 126,
+                        "endOffset": 2060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2065,
+                    "endColumn": 168,
+                    "endOffset": 2229
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2065,
+                        "endColumn": 168,
+                        "endOffset": 2229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2234,
+                    "endColumn": 118,
+                    "endOffset": 2348
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2234,
+                        "endColumn": 118,
+                        "endOffset": 2348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2353,
+                    "endColumn": 175,
+                    "endOffset": 2524
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2353,
+                        "endColumn": 175,
+                        "endOffset": 2524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2529,
+                    "endColumn": 116,
+                    "endOffset": 2641
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2529,
+                        "endColumn": 116,
+                        "endOffset": 2641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2646,
+                    "endColumn": 139,
+                    "endOffset": 2781
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2646,
+                        "endColumn": 139,
+                        "endOffset": 2781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2786,
+                    "endColumn": 223,
+                    "endOffset": 3005
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2786,
+                        "endColumn": 223,
+                        "endOffset": 3005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3010,
+                    "endColumn": 124,
+                    "endOffset": 3130
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3010,
+                        "endColumn": 124,
+                        "endOffset": 3130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3135,
+                    "endColumn": 109,
+                    "endOffset": 3240
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3135,
+                        "endColumn": 109,
+                        "endOffset": 3240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3245,
+                    "endColumn": 170,
+                    "endOffset": 3411
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3245,
+                        "endColumn": 170,
+                        "endOffset": 3411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3416,
+                    "endColumn": 132,
+                    "endOffset": 3544
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3416,
+                        "endColumn": 132,
+                        "endOffset": 3544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3549,
+                    "endColumn": 94,
+                    "endOffset": 3639
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3549,
+                        "endColumn": 94,
+                        "endOffset": 3639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3644,
+                    "endColumn": 111,
+                    "endOffset": 3751
+                },
+                "from": {
+                    "file": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/values-et/values-et.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3644,
+                        "endColumn": 111,
+                        "endOffset": 3751
+                    }
+                }
+            }
+        ]
+    }
+]

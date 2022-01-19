@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView          
+      android:layout_width="fill_parent" 
+      android:layout_height="2px" 
+      android:background="#DADADA" />
+    
+    <TextView
+            android:id="@+id/MacAddress"            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00-00-00-00-00-00" />
+    
+    <TextView          
+      android:layout_width="fill_parent" 
+      android:layout_height="2px" 
+      android:background="#DADADA" />
+    
+    <TextView
+            android:id="@+id/HR_name"            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(some name)" />
+    
+    <TextView          
+      android:layout_width="fill_parent" 
+      android:layout_height="2px" 
+      android:background="#DADADA" />
+
+    <com.keeper.activity.RadarView
+        android:id="@+id/radarViewDebug"
+        android:background="@color/radar_grey_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+<!--     
+    <TextView
+            android:id="@+id/rssiraw"            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0 rssiraw" />
+	
+	<TextView
+            android:id="@+id/rssifiltered"            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0 rssifiltered" />
+	
+	<TextView
+            android:id="@+id/interation"            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0 interation" />
+	 -->
+	<TextView
+            android:id="@+id/auxinfo"            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0 auxinfo" />
+
+</LinearLayout>

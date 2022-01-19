@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <attr format="boolean" name="centered"/>
+    <attr format="reference" name="numberPickerStyle"/>
+    <attr format="color" name="selectedColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="color" name="unselectedColor"/>
+    <bool name="default_circle_indicator_centered">true</bool>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFFFFFFF</color>
+    <color name="device_state_disconnected">#0ff</color>
+    <color name="device_state_on">#fff</color>
+    <color name="device_state_paused">#f00</color>
+    <color name="pressed_color">#0000FF</color>
+    <color name="radar_grey_background">#FF666666</color>
+    <color name="transparent">#00000000</color>
+    <color name="window_background">#000066</color>
+    <declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType">
+      <enum name="none" value="0"/>
+      <enum name="normal" value="1"/>
+      <enum name="satellite" value="2"/>
+      <enum name="terrain" value="3"/>
+      <enum name="hybrid" value="4"/>
+    </attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/></declare-styleable>
+    <declare-styleable name="NumberPicker"><attr format="color|reference" name="solidColor"/><attr format="reference" name="selectionDivider"/><attr format="dimension" name="selectionDividerHeight"/><attr format="dimension" name="selectionDividersDistance"/><attr format="dimension" name="internalMinHeight"/><attr format="dimension" name="internalMaxHeight"/><attr format="dimension" name="internalMinWidth"/><attr format="dimension" name="internalMaxWidth"/><attr format="reference" name="internalLayout"/><attr format="reference" name="virtualButtonPressedDrawable"/></declare-styleable>
+    <declare-styleable name="TabIndicator"><attr format="reference|string" name="titleText"/><attr format="dimension" name="titleTextSize"/><attr format="reference|color" name="titleTextColor"/><attr format="reference" name="titleIcon"/></declare-styleable>
+    <dimen name="default_circle_indicator_radius">8dp</dimen>
+    <dimen name="default_circle_indicator_stroke_width">2dp</dimen>
+    <dimen name="device_name_text_size">20dp</dimen>
+    <dimen name="device_state_text_size">26dp</dimen>
+    <dimen name="list_text1_size">16dp</dimen>
+    <dimen name="list_text2_size">12dp</dimen>
+    <dimen name="tab_indicator_text_size">10dp</dimen>
+    <item name="np__decrement" type="id"/>
+    <item name="np__increment" type="id"/>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Keeper</string>
+    <string name="auth_client_needs_enabling_title">
+      An application requires Google Play Services to be enabled.
+  </string>
+    <string name="auth_client_needs_installation_title">
+      An application requires installation of Google Play Services.
+  </string>
+    <string name="auth_client_needs_update_title">
+      An application requires an update for Google Play Services.
+  </string>
+    <string name="auth_client_play_services_err_notification_msg">Google Play services error</string>
+    <string name="auth_client_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string name="auth_client_using_bad_version_title">
+      An application attempted to use a bad version of Google Play Services.
+  </string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="1788179980625863495" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:textViewStyle">@style/TextStyle</item>
+        <item name="android:editTextStyle">@style/EditTextStyle</item>
+        <item name="android:homeAsUpIndicator">@drawable/button_back</item>
+        <item name="android:radioButtonStyle">@style/RadioButtonStyle</item>
+        <item name="android:checkboxStyle">@style/CheckBoxStyle</item>
+        <item name="android:checkMark">@drawable/button_checkbox</item>
+        <item name="android:listViewStyle">@style/ListViewStyle</item>
+    </style>
+    <style name="CheckBoxStyle" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:button">@drawable/button_checkbox</item>
+    </style>
+    <style name="Dialog" parent="@android:style/Theme.Black">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:backgroundDimAmount">0.5</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="numberPickerStyle">@style/NumberPicker</item>
+    </style>
+    <style name="EditTextStyle" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textColorHint">#80ffffff</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:background">@drawable/edit_text_background</item>
+    </style>
+    <style name="ListViewStyle" parent="@android:style/Widget.ListView">
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:divider">@android:color/transparent</item>
+        <item name="android:dividerHeight">0dp</item>
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.ActionBar">
+        <item name="android:background">#58595B</item>
+    </style>
+    <style name="NPWidget">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+    </style>
+    <style name="NPWidget.Holo.Light.NumberPicker" parent="NPWidget.Holo.NumberPicker">
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_light</item>
+    </style>
+    <style name="NPWidget.Holo.NumberPicker" parent="NPWidget.NumberPicker">
+        <item name="solidColor">@android:color/transparent</item>
+        <item name="selectionDivider">@drawable/np_numberpicker_selection_divider</item>
+        <item name="selectionDividerHeight">2dip</item>
+        <item name="internalLayout">@layout/number_picker_with_selector_wheel</item>
+        <item name="internalMinWidth">64dip</item>
+        <item name="internalMaxHeight">180dip</item>
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_dark</item>
+    </style>
+    <style name="NPWidget.NumberPicker">
+        <item name="android:orientation">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:fadingEdgeLength">50dip</item>
+    </style>
+    <style name="NumberPicker" parent="@style/NPWidget.Holo.NumberPicker">
+        <item name="solidColor">@android:color/transparent</item>
+        <item name="selectionDivider">@android:color/white</item>
+        <item name="selectionDividerHeight">2dip</item>
+        <item name="internalLayout">@layout/number_picker_with_selector_wheel</item>
+        <item name="internalMinWidth">64dip</item>
+        <item name="internalMaxHeight">180dip</item>
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_dark</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="RadioButtonStyle" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">@dimen/list_text1_size</item>
+        <item name="android:background">@drawable/radio_button_selector</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:drawablePadding">20dp</item>
+        <item name="android:drawableLeft">@drawable/button_radio</item>
+        <item name="android:button">@null</item>
+    </style>
+    <style name="Schedule.Days" parent="TextStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/dialog_day_selector</item>
+    </style>
+    <style name="SettingItemStyle" parent="TextStyle">
+        <item name="android:background">@drawable/radio_button_selector</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="TabIndicator">
+        <item name="titleTextColor">#fff</item>
+        <item name="titleTextSize">@dimen/tab_indicator_text_size</item>
+        <item name="android:onClick">onClick</item>
+    </style>
+    <style name="TextHeaderDialogStyle" parent="@style/TextHeaderStyle">
+        <item name="android:background">@drawable/dialog_title</item>
+    </style>
+    <style name="TextHeaderStyle" parent="TextStyle">
+        <item name="android:background">#444444</item>
+        <item name="android:textSize">@dimen/list_text1_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    <style name="TextStyle" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">@dimen/list_text1_size</item>
+    </style>
+    <style name="deviceAddItems" parent="TextStyle">
+        <item name="android:padding">10dp</item>
+        <item name="android:background">@drawable/list_selector</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="listIconStyle">
+        <item name="android:padding">10dp</item>
+    </style>
+    <style name="listText1" parent="TextStyle">
+        <item name="android:textSize">@dimen/list_text1_size</item>
+    </style>
+    <style name="listText2" parent="TextStyle">
+        <item name="android:textSize">@dimen/list_text2_size</item>
+    </style>
+</resources>

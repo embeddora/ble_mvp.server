@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.keeper.view.CirclePageIndicator
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dip" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/action_bar_tabs"
+        android:layout_below="@+id/indicator"
+        android:layout_toLeftOf="@+id/imageButton2"
+        android:layout_toRightOf="@+id/imageButton1" />
+
+    <LinearLayout
+        android:id="@+id/action_bar_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+
+        <com.keeper.view.TabIndicator
+            android:id="@+id/tabIndicatorSearch"
+            style="@style/TabIndicator"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            tab:titleIcon="@drawable/tab_search"
+            tab:titleText="Поиск" />
+
+        <com.keeper.view.TabIndicator
+            android:id="@+id/tabIndicatorNavigation"
+            style="@style/TabIndicator"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            tab:titleIcon="@drawable/tab_nav"
+            tab:titleText="Навигация" />
+
+        <com.keeper.view.TabIndicator
+            android:id="@+id/tabIndicatorHistory"
+            style="@style/TabIndicator"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            tab:titleIcon="@drawable/tab_history"
+            tab:titleText="История" />
+
+        <com.keeper.view.TabIndicator
+            android:id="@+id/tabIndicatorSettings"
+            style="@style/TabIndicator"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            tab:titleIcon="@drawable/tab_settings"
+            tab:titleText="Настройки" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/buttonLeft"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:onClick="onClick"
+        android:padding="10dp"
+        android:src="@drawable/button_arrow_left" />
+
+    <ImageButton
+        android:id="@+id/buttonRight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@null"
+        android:onClick="onClick"
+        android:padding="10dp"
+        android:src="@drawable/button_arrow_right" />
+
+</RelativeLayout>

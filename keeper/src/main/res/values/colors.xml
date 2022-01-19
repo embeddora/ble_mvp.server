@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="window_background">#000066</color>
+    <color name="pressed_color">#0000FF</color>
+    <color name="device_state_on">#fff</color>
+    <color name="device_state_paused">#f00</color>
+    <color name="device_state_disconnected">#0ff</color>
+
+</resources>

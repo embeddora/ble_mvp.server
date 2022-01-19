@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:2:1-109:12
+	package
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:3:5-25
+		INJECTED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml
+		INJECTED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml
+		INJECTED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml
+		INJECTED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [20211201.1:numberPickerLibrary:unspecified] /home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/numberPickerLibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [20211201.1:googleplayservices_lib:unspecified] /home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/AndroidManifest.xml:7:5-9:40
+	android:targetSdkVersion
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml
+		INJECTED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml
+		INJECTED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:12:9-53
+uses-permission#android.permission.INTERNET
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:18:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:19:5-98
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:19:22-95
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:22:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:23:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:26:22-78
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:29:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:31:5-76
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:31:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:32:5-76
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:32:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:33:5-75
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:33:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:34:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:35:5-65
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:35:22-63
+uses-feature#0x00020000
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:45:5-47:35
+	android:glEsVersion
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:46:9-41
+	android:required
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:47:9-32
+application
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:49:5-107:19
+	android:label
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:52:9-41
+	android:allowBackup
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:50:9-35
+	android:icon
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:51:9-45
+	android:theme
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:54:9-44
+	android:logo
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:53:9-38
+meta-data#com.google.android.gms.version
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:56:9-58:35
+	android:value
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:58:13-33
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:57:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:63:9-65:71
+	android:value
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:65:13-68
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:64:13-62
+activity#com.keeper.activity.HomeActivity
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:67:9-77:20
+	android:screenOrientation
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:71:13-49
+	android:configChanges
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:69:13-76
+	android:logo
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:70:13-42
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:68:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:72:13-76:29
+action#android.intent.action.MAIN
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:73:17-69
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:73:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:75:17-77
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:75:27-74
+service#com.keeper.activity.BluetoothLeService
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:79:2-81:49
+	android:enabled
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:81:13-35
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:80:13-56
+activity#com.keeper.activity.DeviceAddActivity
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:83:9-86:52
+	android:screenOrientation
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:86:13-49
+	android:configChanges
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:85:13-76
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:84:13-55
+activity#com.keeper.activity.SearchActivity
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:87:9-90:52
+	android:screenOrientation
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:90:13-49
+	android:configChanges
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:89:13-76
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:88:13-52
+activity#com.keeper.activity.NavigationActivity
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:91:9-94:52
+	android:screenOrientation
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:94:13-49
+	android:configChanges
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:93:13-76
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:92:13-56
+activity#com.keeper.activity.HistoryActivity
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:95:9-98:52
+	android:screenOrientation
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:98:13-49
+	android:configChanges
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:97:13-76
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:96:13-53
+activity#com.keeper.activity.AppSettingsActivity
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:99:9-102:52
+	android:screenOrientation
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:102:13-49
+	android:configChanges
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:101:13-76
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:100:13-57
+activity#com.keeper.activity.SuspensionDeviceActivity
+ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:103:9-106:52
+	android:screenOrientation
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:106:13-49
+	android:configChanges
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:105:13-76
+	android:name
+		ADDED from /home/developer/20211201.1/keeper/src/main/AndroidManifest.xml:104:13-62

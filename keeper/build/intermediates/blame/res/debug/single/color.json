@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/color/common_signin_btn_text_dark.xml"
+    }
+]

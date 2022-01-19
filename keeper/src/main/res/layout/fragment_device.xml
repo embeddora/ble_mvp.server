@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/textDeviceName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Устройство в кошельке"
+        android:textSize="@dimen/device_name_text_size" />
+
+    <ImageView
+        android:id="@+id/imageDevice"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:adjustViewBounds="true"
+        android:src="@drawable/center_image" />
+
+    <TextView
+        android:id="@+id/textDeviceState"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="подключено"
+        android:textAllCaps="true"
+        android:textSize="@dimen/device_name_text_size" />
+
+    <TextView
+        android:id="@+id/textDeviceTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="18:00"
+        android:textAllCaps="true"
+        android:textSize="@dimen/device_state_text_size" />
+
+    <ImageButton
+        android:id="@+id/buttonDeviceState"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@null"
+        android:src="@drawable/button_add" />
+
+    <TextView
+        android:id="@+id/textDeviceAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:visibility="invisible"
+		android:text="(empty)"        
+        android:textSize="@dimen/device_name_text_size" />
+
+    
+    
+
+</LinearLayout>

@@ -1,0 +1,127 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tab="http://schemas.android.com/apk/res-auto">
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:textViewStyle">@style/TextStyle</item>
+        <item name="android:editTextStyle">@style/EditTextStyle</item>
+        <item name="android:homeAsUpIndicator">@drawable/button_back</item>
+        <item name="android:radioButtonStyle">@style/RadioButtonStyle</item>
+        <item name="android:checkboxStyle">@style/CheckBoxStyle</item>
+        <item name="android:checkMark">@drawable/button_checkbox</item>
+        <item name="android:listViewStyle">@style/ListViewStyle</item>
+    </style>
+
+    <style name="MyActionBar" parent="@android:style/Widget.ActionBar">
+        <item name="android:background">#58595B</item>
+    </style>
+
+    <style name="TabIndicator">
+        <item name="titleTextColor">#fff</item>
+        <item name="titleTextSize">@dimen/tab_indicator_text_size</item>
+        <item name="android:onClick">onClick</item>
+    </style>
+
+    <style name="TextStyle" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">@dimen/list_text1_size</item>
+    </style>
+
+    <style name="RadioButtonStyle" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">@dimen/list_text1_size</item>
+        <item name="android:background">@drawable/radio_button_selector</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:drawablePadding">20dp</item>
+        <item name="android:drawableLeft">@drawable/button_radio</item>
+        <item name="android:button">@null</item>
+    </style>
+
+    <style name="ListViewStyle" parent="@android:style/Widget.ListView">
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:divider">@android:color/transparent</item>
+        <item name="android:dividerHeight">0dp</item>
+    </style>
+
+    <style name="CheckBoxStyle" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:button">@drawable/button_checkbox</item>
+    </style>
+
+    <style name="EditTextStyle" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textColorHint">#80ffffff</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:background">@drawable/edit_text_background</item>
+    </style>
+
+    <style name="TextHeaderStyle" parent="TextStyle">
+        <item name="android:background">#444444</item>
+        <item name="android:textSize">@dimen/list_text1_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="TextHeaderDialogStyle" parent="@style/TextHeaderStyle">
+        <item name="android:background">@drawable/dialog_title</item>
+    </style>
+
+    <style name="SettingItemStyle" parent="TextStyle">
+        <item name="android:background">@drawable/radio_button_selector</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="deviceAddItems" parent="TextStyle">
+        <item name="android:padding">10dp</item>
+        <item name="android:background">@drawable/list_selector</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="listIconStyle">
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="listText1" parent="TextStyle">
+        <item name="android:textSize">@dimen/list_text1_size</item>
+    </style>
+
+    <style name="listText2" parent="TextStyle">
+        <item name="android:textSize">@dimen/list_text2_size</item>
+    </style>
+
+    <style name="Dialog" parent="@android:style/Theme.Black">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:backgroundDimAmount">0.5</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="numberPickerStyle">@style/NumberPicker</item>
+    </style>
+
+    <style name="NumberPicker" parent="@style/NPWidget.Holo.NumberPicker">
+        <item name="solidColor">@android:color/transparent</item>
+        <item name="selectionDivider">@android:color/white</item>
+        <item name="selectionDividerHeight">2dip</item>
+        <item name="internalLayout">@layout/number_picker_with_selector_wheel</item>
+        <item name="internalMinWidth">64dip</item>
+        <item name="internalMaxHeight">180dip</item>
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_dark</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Schedule.Days" parent="TextStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/dialog_day_selector</item>
+    </style>
+
+</resources>

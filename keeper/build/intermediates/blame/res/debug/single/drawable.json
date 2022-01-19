@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/button_radio.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/button_radio.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/radio_button_selector.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/radio_button_selector.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/dialog_day_selector.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/dialog_day_selector.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/tab_search.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/tab_search.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/list_selector_background_transition_holo_dark.xml",
+        "source": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/numberPickerLibrary/unspecified/res/drawable/list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/dialog_window.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/dialog_window.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/button_checkbox.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/button_checkbox.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/dialog_day.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/dialog_day.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/item_background_holo_dark.xml",
+        "source": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/numberPickerLibrary/unspecified/res/drawable/item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/device_icon.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/device_icon.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/smartphone.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/smartphone.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/tab_history.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/tab_history.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/tab_nav.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/tab_nav.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/button_save.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/button_save.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/item_background_holo_light.xml",
+        "source": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/numberPickerLibrary/unspecified/res/drawable/item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/list_selector_background_transition_holo_light.xml",
+        "source": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/numberPickerLibrary/unspecified/res/drawable/list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/button_arrow_right.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/button_arrow_right.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/button_back.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/button_back.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/button_arrow_left.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/button_arrow_left.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/button_pause.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/button_pause.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/button_add.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/button_add.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/list_selector.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/list_selector.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/dialog_title.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/dialog_title.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/tab_settings.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/tab_settings.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/icon_add.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/icon_add.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable/icon_settings.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable/icon_settings.xml"
+    }
+]

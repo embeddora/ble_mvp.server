@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/home/developer/20211201.1/googleplayservices_lib/libs/google-play-services.jar:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/googleplayservices_lib/libs/google-play-services.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

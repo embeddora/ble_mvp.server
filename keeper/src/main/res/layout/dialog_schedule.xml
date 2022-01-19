@@ -1,0 +1,141 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.keeper.view.ScheduleDays
+            android:id="@+id/days"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp" />
+
+        <TextView
+            android:id="@+id/textStart"
+            style="@style/TextStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/days"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/list_selector_pressed"
+            android:drawableRight="@drawable/arrow_open"
+            android:padding="10dp"
+            android:text="Начало" />
+
+        <LinearLayout
+            android:id="@+id/containerStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textStart"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="час" />
+
+            <net.simonvt.numberpicker.NumberPicker
+                android:id="@+id/numberPickerHourStart"
+                style="@style/NumberPicker"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:descendantFocusability="blocksDescendants"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=":" />
+
+            <net.simonvt.numberpicker.NumberPicker
+                android:id="@+id/numberPickerMinutesStart"
+                style="@style/NumberPicker"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:descendantFocusability="blocksDescendants" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="мин" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textEnd"
+            style="@style/TextStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/containerStart"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/list_selector_pressed"
+            android:drawableRight="@drawable/arrow_open"
+            android:padding="10dp"
+            android:text="Конец" />
+
+        <LinearLayout
+            android:id="@+id/containerEnd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textEnd"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="час" />
+
+            <net.simonvt.numberpicker.NumberPicker
+                android:id="@+id/numberPickerHourEnd"
+                style="@style/NumberPicker"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:descendantFocusability="blocksDescendants"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=":" />
+
+            <net.simonvt.numberpicker.NumberPicker
+                android:id="@+id/numberPickerMinutesEnd"
+                style="@style/NumberPicker"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:descendantFocusability="blocksDescendants" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="мин" />
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/containerEnd"
+            android:layout_centerHorizontal="true"
+            android:background="@null"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:src="@drawable/button_save" />
+    </RelativeLayout>
+
+</ScrollView>

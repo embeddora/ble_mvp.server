@@ -1,0 +1,4 @@
+#Thu Dec 09 12:50:10 EET 2021
+base.0=/home/developer/20211201.1/keeper/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/developer/20211201.1/keeper/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

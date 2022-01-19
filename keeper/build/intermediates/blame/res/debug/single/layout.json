@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_device.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_device.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/dialog_base.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/dialog_base.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/radar.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/radar.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_settings.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/abc_custom.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/abc_custom.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/dialog_time.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/dialog_time.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/dialog_schedule.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/dialog_schedule.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/abc_tab.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/abc_tab.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_history.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_settings_search_sound.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_settings_search_sound.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_log.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_log.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_device_add_sensitivity.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_device_add_sensitivity.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_search.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/dialog_schedule_day.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/dialog_schedule_day.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_suspension.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_suspension.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/item_history.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/item_history.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_navigation.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_navigation.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_device_add.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_device_add.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_settings_sound.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_settings_sound.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/dialog_timer.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/dialog_timer.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/item_device_icon.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/item_device_icon.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/fragment_device_add_name.xml",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/layout/fragment_device_add_name.xml"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/layout/number_picker_with_selector_wheel.xml",
+        "source": "/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/numberPickerLibrary/unspecified/res/layout/number_picker_with_selector_wheel.xml"
+    }
+]

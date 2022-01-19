@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/20211201.1.iml" filepath="$PROJECT_DIR$/.idea/modules/20211201.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/googleplayservices_lib/20211201.1.googleplayservices_lib.iml" filepath="$PROJECT_DIR$/.idea/modules/googleplayservices_lib/20211201.1.googleplayservices_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/keeper/20211201.1.keeper.iml" filepath="$PROJECT_DIR$/.idea/modules/keeper/20211201.1.keeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/numberPickerLibrary/20211201.1.numberPickerLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/numberPickerLibrary/20211201.1.numberPickerLibrary.iml" />
+    </modules>
+  </component>
+</project>

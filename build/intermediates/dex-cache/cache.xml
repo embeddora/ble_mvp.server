@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/developer/20211201.0/keeper/build/intermediates/exploded-aar/20211201.0/googleplayservices_lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="84a30d918dacaf7eec7848cbf1cae8e489cc773f">
+        <dex dex="/home/developer/20211201.0/keeper/build/intermediates/pre-dexed/debug/20211201.0-googleplayservices_lib-unspecified_445b83f0fb1b0a99e89f3a6112c4f2aebf5696b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/developer/20211201.0/keeper/libs/android-support-v13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="f5fa2183e286730a81f3076f19022539902a24f3">
+        <dex dex="/home/developer/20211201.0/keeper/build/intermediates/pre-dexed/debug/android-support-v13_57796640c9af19243c345dc478e52575080373d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/developer/20211201.1/keeper/libs/android-support-v13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="f5fa2183e286730a81f3076f19022539902a24f3">
+        <dex dex="/home/developer/20211201.1/keeper/build/intermediates/pre-dexed/debug/android-support-v13_970a4ed502a6f39d61b52aa036bf94fb9b3ea212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/developer/20211201.0/keeper/build/intermediates/exploded-aar/20211201.0/googleplayservices_lib/unspecified/jars/libs/google-play-services.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="a56aa6c33276d3e8c4dd3577111d105ba8226856">
+        <dex dex="/home/developer/20211201.0/keeper/build/intermediates/pre-dexed/debug/google-play-services_4edfc9eded293f5eeb4c896aeb380f7468249913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="84a30d918dacaf7eec7848cbf1cae8e489cc773f">
+        <dex dex="/home/developer/20211201.1/keeper/build/intermediates/pre-dexed/debug/20211201.1-googleplayservices_lib-unspecified_47802f6750d29913cfac79d2df2aec1d1fb10816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/numberPickerLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="ec3019a4a66d429e347e22b7f261042a887f779f">
+        <dex dex="/home/developer/20211201.1/keeper/build/intermediates/pre-dexed/debug/20211201.1-numberPickerLibrary-unspecified_f35dbff082e16de091f4c9b5602b06c528edf123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/developer/20211201.1/keeper/build/intermediates/exploded-aar/20211201.1/googleplayservices_lib/unspecified/jars/libs/google-play-services.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="a56aa6c33276d3e8c4dd3577111d105ba8226856">
+        <dex dex="/home/developer/20211201.1/keeper/build/intermediates/pre-dexed/debug/google-play-services_5b619a842f2a5593340d51fdbb305e0514731574.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/developer/20211201.0/keeper/build/intermediates/exploded-aar/20211201.0/numberPickerLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="30.0.3"
+        sha1="ec3019a4a66d429e347e22b7f261042a887f779f">
+        <dex dex="/home/developer/20211201.0/keeper/build/intermediates/pre-dexed/debug/20211201.0-numberPickerLibrary-unspecified_072c9b86ece065cca1cc97dea94ca2099a8ca3e9.jar" />
+    </item>
+
+</items>

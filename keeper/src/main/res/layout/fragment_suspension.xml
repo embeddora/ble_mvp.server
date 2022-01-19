@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/section_label"
+        style="@style/TextHeaderStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Приостановление охранной функции" />
+
+    <TextView
+        android:id="@+id/textDeviceName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="15dp"
+        android:text="Имя устройства"
+        android:textSize="@dimen/list_text1_size" />
+
+    <ImageButton
+        android:id="@+id/buttonPause"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_selector_unpressed"
+        android:paddingBottom="10dp"
+        android:src="@drawable/button_pause" />
+
+    <LinearLayout
+        android:id="@+id/buttonTimer"
+        style="@style/deviceAddItems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical" >
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                style="@style/listIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ico_timer" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/listText1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Таймер включения" />
+
+            <TextView
+                style="@style/listText2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="выключено" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/buttonTime"
+        style="@style/deviceAddItems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical" >
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                style="@style/listIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ico_time" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/listText1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Время включения" />
+
+            <TextView
+                style="@style/listText2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="выключено" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/buttonSchedule"
+        style="@style/deviceAddItems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical" >
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                style="@style/listIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ico_schedule" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/listText1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Расписание включения/выключения" />
+
+            <TextView
+                style="@style/listText2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Чувствительность не выбрана" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

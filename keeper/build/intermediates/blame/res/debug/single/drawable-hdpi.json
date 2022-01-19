@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_time.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_time.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_on.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_on.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/list_selector_pressed.9.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/list_selector_pressed.9.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/arrow_right_unpressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/arrow_right_unpressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/radio_button_checked.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/radio_button_checked.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_tab_history_selected.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_tab_history_selected.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/list_selector_unpressed.9.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/list_selector_unpressed.9.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/arrow_left_pressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/arrow_left_pressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/button_save_pressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/button_save_pressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_save.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_save.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_modal_close_pressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_modal_close_pressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_settings_unpressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_settings_unpressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/location_now.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/location_now.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/arrow_open.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/arrow_open.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_back_unpressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_back_unpressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_modal_close_unpressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_modal_close_unpressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/arrow_right_pressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/arrow_right_pressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/image_unselected.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/image_unselected.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_off.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_off.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_settings_pressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_settings_pressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/location_disconnect.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/location_disconnect.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/button_pause_pressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/button_pause_pressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/button_add_pressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/button_add_pressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_tab_settings.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_tab_settings.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_tab_search.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_tab_search.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_schedule.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_schedule.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/edit_text_background.9.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/edit_text_background.9.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_add_pressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_add_pressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_disconnect.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_disconnect.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/button_add_unpressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/button_add_unpressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_tab_nav_selected.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_tab_nav_selected.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/arrow_close.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/arrow_close.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_tab_search_selected.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_tab_search_selected.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/logo.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/center_image.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/center_image.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/image_selected.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/image_selected.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_sensitivity.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_sensitivity.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_name.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_name.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/arrow_left_unpressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/arrow_left_unpressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_activation.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_activation.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/button_pause_unpressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/button_pause_unpressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/smartphone.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/smartphone.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/button_save_unpressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/button_save_unpressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_tab_nav.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_tab_nav.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_back_pressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_back_pressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/checkbox.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/checkbox.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_bluetooth.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_bluetooth.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_tab_settings_selected.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_tab_settings_selected.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_active.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/checkbox_active.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_timer.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_timer.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_add_unpressed.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_add_unpressed.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/radio_button_unchecked.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/radio_button_unchecked.png"
+    },
+    {
+        "merged": "/home/developer/20211201.1/keeper/build/intermediates/res/merged/debug/drawable-hdpi/ico_tab_history.png",
+        "source": "/home/developer/20211201.1/keeper/src/main/res/drawable-hdpi/ico_tab_history.png"
+    }
+]

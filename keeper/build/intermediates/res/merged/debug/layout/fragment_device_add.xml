@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/section_label"
+        style="@style/TextHeaderStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Добавление нового устройства" />
+
+    <LinearLayout
+        android:id="@+id/buttonBluetooth"
+        style="@style/deviceAddItems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical" >
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                style="@style/listIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ico_bluetooth" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/listText1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Подключение устройства по bluetooth" />
+
+            <TextView
+                style="@style/listText2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Устройство не подключено. Нажмите здесь для поиска устройства в меню bluetooth" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/buttonName"
+        style="@style/deviceAddItems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical" >
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                style="@style/listIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ico_name" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/listText1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Название и описание устройства" />
+
+            <TextView
+                style="@style/listText2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Устройство 1" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/buttonSensitivity"
+        style="@style/deviceAddItems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical" >
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                style="@style/listIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ico_sensitivity" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/listText1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Выбор чувствительности" />
+
+            <TextView
+                style="@style/listText2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Чувствительность не выбрана" />
+        </LinearLayout>
+    </LinearLayout>
+
+    
+    <!-- 8xx -->
+    <LinearLayout
+        android:id="@+id/buttonActivation"
+        style="@style/deviceAddItems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onButtonActivationClicked"        
+        android:gravity="center_vertical" >
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/imageView81"
+                style="@style/listIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"                
+                android:src="@drawable/ico_activation" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/listText1"
+                android:id="@+id/listText81"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"                
+                android:text="Активация устройства" />
+
+            <TextView
+                style="@style/listText2"
+                android:id="@+id/listText82"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"                
+                android:text="Устройство выключено" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
